@@ -1,5 +1,5 @@
 # electron-vue-csvToExcel
-基于electron+vue+element搭建的csv转excel
+csv转excel是基于electron+vue+element搭建的桌面工具
 [vue-admin-template](https://github.com/PanJiaChen/vueAdmin-template);
 [electron-vue](https://github.com/SimulatedGREG/electron-vue);
 ## Build Setup
