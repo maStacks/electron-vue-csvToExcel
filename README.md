@@ -1,5 +1,7 @@
 # electron-vue-csvToExcel
 基于electron+vue+element搭建的csv转excel
+[vue-admin-template](https://github.com/PanJiaChen/vueAdmin-template);
+[electron-vue](https://github.com/SimulatedGREG/electron-vue);
 ## Build Setup
 
 ``` bash
