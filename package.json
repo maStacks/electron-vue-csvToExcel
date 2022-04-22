@@ -1,8 +1,8 @@
 {
   "name": "electron-vue-admin",
-  "version": "1.0.0",
-  "author": "Pan <panfree23@gmail.com>",
-  "description": "An electron-vue project",
+  "version": "1.0.0.1",
+  "author": "maStacks",
+  "description": "An csv2excel project",
   "license": "MIT",
   "main": "./dist/electron/main.js",
   "scripts": {
